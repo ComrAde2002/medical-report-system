@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Temporary upload files (auto-cleaned up)
+temp/
+
+# User uploaded assets (optional - uncomment if you don't want to track uploaded files)
+# assets/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
